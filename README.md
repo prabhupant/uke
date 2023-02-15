@@ -1,5 +1,5 @@
 # uke
-Make background task in Python easier again!
+Make background-task-in-Python easier again!
 
 ## Usage
 
